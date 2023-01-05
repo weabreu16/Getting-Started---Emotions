@@ -22,7 +22,7 @@ namespace Getting_Started___Emotions.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "How to contact emotion.";
 
             return View();
         }
@@ -30,6 +30,19 @@ namespace Getting_Started___Emotions.Controllers
         public ActionResult Meeting()
         {
             ViewBag.Message = "Meeting tutorial page.";
+
+            return View();
+        }
+        public ActionResult Article()
+        {
+            ViewBag.Message = "Article tutorial page.";
+
+            return View();
+        }
+
+        public ActionResult Profiles()
+        {
+            ViewBag.Message = "Profile tutorial page";
 
             return View();
         }

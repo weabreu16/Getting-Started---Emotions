@@ -127,17 +127,28 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\ArticleSS.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\MeetingSS.css" />
+    <Content Include="Content\Profiles.css" />
     <Content Include="Content\styles.css" />
     <Content Include="Content\StyleSheet1.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\Articulo_1.png" />
+    <Content Include="Images\Articulo_2.png" />
+    <Content Include="Images\Dashboard_1.png" />
+    <Content Include="Images\RegistroEspecialista_1.png" />
+    <Content Include="Images\TipoDeCuenta_1.png" />
+    <Content Include="Images\yoga.png" />
     <Content Include="Images\EmoBigLogo.PNG" />
     <Content Include="favicon.ico" />
+    <Content Include="Images\Meeting_Emotion1.png" />
+    <Content Include="Images\Meeting_Emotion.jpeg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -167,6 +178,8 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Meeting.cshtml" />
+    <Content Include="Views\Home\Article.cshtml" />
+    <Content Include="Views\Home\Profiles.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
