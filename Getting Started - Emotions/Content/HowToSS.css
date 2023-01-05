@@ -1,14 +1,14 @@
-﻿.body {
+﻿body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
 
-.pro {
+.install {
     float: left;
     width: 33.33%;
     padding: 3px;
 }
 
-.pro {
-        height: 700px;
+.install img {
+    height: 700px;
 }

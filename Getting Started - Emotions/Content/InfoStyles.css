@@ -3,12 +3,11 @@
     box-sizing: border-box;
 }
 
-.meeting {
-    float: left;
-    width: 33.33%;
-    padding: 3px;
+img {
+    width: 300px; 
+    height: 670px;
 }
 
-.meeting img {
-    height: 500px;
+.img p {
+    color:#DB6551;
 }

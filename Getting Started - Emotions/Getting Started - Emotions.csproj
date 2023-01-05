@@ -127,13 +127,16 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\AboutUsStyles.css" />
     <Content Include="Content\ArticleSS.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\HowToSS.css" />
+    <Content Include="Content\InfoStyles.css" />
     <Content Include="Content\MeetingSS.css" />
-    <Content Include="Content\Profiles.css" />
+    <Content Include="Content\ProfilesSS.css" />
     <Content Include="Content\styles.css" />
     <Content Include="Content\StyleSheet1.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -141,8 +144,23 @@
     <Content Include="Content\Site.css" />
     <Content Include="Images\Articulo_1.png" />
     <Content Include="Images\Articulo_2.png" />
+    <Content Include="Images\CalendarDetailsEmotions.png" />
+    <Content Include="Images\CalendarEmotions.png" />
+    <Content Include="Images\CalendarEventEmotions.png" />
+    <Content Include="Images\Calendario-DetallesReunion-1.png" />
+    <Content Include="Images\ChatEmotions.png" />
+    <Content Include="Images\ChatsOnEmotions.png" />
+    <Content Include="Images\DashboardForChats.png" />
+    <Content Include="Images\Dashboard_12.png" />
+    <Content Include="Images\Dashboard_Menu.png" />
     <Content Include="Images\Dashboard_1.png" />
+    <Content Include="Images\EmergencyEmotions.png" />
+    <Content Include="Images\InicioSesion_1.png" />
+    <Content Include="Images\Landing Page.png" />
+    <Content Include="Images\Mensajes.png" />
+    <Content Include="Images\Mensajes1.png" />
     <Content Include="Images\RegistroEspecialista_1.png" />
+    <Content Include="Images\RegistroPaciente _1.png" />
     <Content Include="Images\TipoDeCuenta_1.png" />
     <Content Include="Images\yoga.png" />
     <Content Include="Images\EmoBigLogo.PNG" />
@@ -180,6 +198,9 @@
     <Content Include="Views\Home\Meeting.cshtml" />
     <Content Include="Views\Home\Article.cshtml" />
     <Content Include="Views\Home\Profiles.cshtml" />
+    <Content Include="Views\Home\HowTo.cshtml" />
+    <Content Include="Views\Home\Chats.cshtml" />
+    <Content Include="Views\Home\Calendar.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

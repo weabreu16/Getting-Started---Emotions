@@ -33,6 +33,12 @@ namespace Getting_Started___Emotions.Controllers
 
             return View();
         }
+        public ActionResult Chats()
+        {
+            ViewBag.Message = "Chats tutorial page.";
+
+            return View();
+        }
         public ActionResult Article()
         {
             ViewBag.Message = "Article tutorial page.";
@@ -46,6 +52,21 @@ namespace Getting_Started___Emotions.Controllers
 
             return View();
         }
+        public ActionResult Calendar()
+        {
+            ViewBag.Message = "How to install tutorial page";
+
+            return View();
+        }
+
+        public ActionResult HowTo()
+        {
+            ViewBag.Message = "How to install tutorial page";
+
+            return View();
+        }
+
+
 
     }
 }
